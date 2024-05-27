@@ -1,12 +1,6 @@
-## Hi there 👋
+![lightswitch 2](https://github.com/LightSwitch-S202/.github/assets/49335446/b8d33382-de4b-44c5-920c-33fb1f6e1041)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div align="center">
+  <h1>오픈소스 피쳐플래깅 서비스 LightSwitch</h1>
+  <br />
+</div>
